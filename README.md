@@ -1,0 +1,2 @@
+# mastergoal
+Just another repository
